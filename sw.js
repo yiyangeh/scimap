@@ -1,4 +1,4 @@
-const VERSION='0.1.12';const CACHE='scimap-'+VERSION;
+const VERSION='0.1.13';const CACHE='scimap-'+VERSION;
 const ASSETS=['./manifest.webmanifest','./icon.png'];
 /* Always download straight from the server: bypass the browser HTTP cache (cache:'reload') and CDN copies (?v=VERSION).
    Without this, a page cached during the last 10 minutes (GitHub Pages max-age=600) could be stored under the NEW version. */
