@@ -1,6 +1,6 @@
 {
   "id": "./",
-  "name": "SCImap · Research Roadmap",
+  "name": "SCImap",
   "short_name": "SCImap",
   "description": "Draw a research technical roadmap and export it as Markdown that AI assistants can act on.",
   "start_url": "./",
